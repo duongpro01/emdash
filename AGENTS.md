@@ -1,6 +1,6 @@
 This file provides guidance to agentic coding tools when working with code in this repository.
 
-## Project Status
+## Project Status 123
 
 **Beta.** EmDash is published to npm. All development happens inside this monorepo using `workspace:*` links. See [CONTRIBUTING.md](CONTRIBUTING.md) for the human-readable contributor guide (setup, repo layout, "build your own site" workflow).
 
